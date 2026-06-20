@@ -6,3 +6,4 @@
 <img src="http://dl.glitter-graphics.net/pub/968/968511q318uvy062.jpg" width=160 height=47 border=0></a><br>
 <img src="http://dl7.glitter-graphics.net/pub/754/754667r8n2u197zw.gif" width=150 height=20 border=0></a><br>
 <img src="http://dl9.glitter-graphics.net/pub/3765/3765379lr6knwxr8l.gif" width=150 height=20 border=0></a><br>
+<img src="http://dl.glitter-graphics.net/pub/989/989321gyey13hzit.gif" width=500 height=25 border=0></a><br>
